@@ -12,7 +12,7 @@ newsapi = NewsApiClient(api_key=NEWS_API_KEY)
 # Initialize AgentOrchestrator with the client
 orchestrator = AgentOrchestrator(groq_client)
 
-st.title("AI Agents: Shaitani Calculator & Newscaster Agent")
+st.title("InfoCulus")
 
 query = st.text_input("Enter your query below:", key="query")
 

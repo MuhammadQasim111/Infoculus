@@ -1,4 +1,4 @@
-# AI News and Calculator Assistant
+# InfoCulus
 
 An intelligent assistant that can handle both news queries and mathematical calculations using Groq's API and NewsAPI.
 
