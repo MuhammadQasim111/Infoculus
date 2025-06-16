@@ -1,0 +1,6 @@
+openai
+groq
+serpapi
+tiktoken
+python-dotenv
+newsapi-python
